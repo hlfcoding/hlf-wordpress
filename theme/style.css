@@ -1,0 +1,14 @@
+/*
+THEME NAME: [Your Site Name]
+THEME URI: http://www.plaintxt.org/themes/sandbox/
+DESCRIPTION: Vital for [Your Site Name] site to work, so do not deactivate. Built on Sandbox 1.6.1
+VERSION: 1.0
+AUTHOR: <a href="mailto:peng@pengxwang.com">Peng Wang</a>
+AUTHOR URI: http://pengxwang.com/
+TAGS: WordPress as CMS, section, fixed width, two columns, widgets
+*/
+
+
+@import 'assets/css/layout_screen.css' screen;
+@import 'assets/css/layout_mobile.css' mobile;
+@import 'assets/css/layout_print.css' print;
